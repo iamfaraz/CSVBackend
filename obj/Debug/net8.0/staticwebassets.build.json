@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "wNc2+dOcm6IlLTttUqKR4uHoKCh6Ww3Bpx9z4h9uxE0=",
+  "Source": "CSVBackend",
+  "BasePath": "_content/CSVBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CSVBackend\\wwwroot",
+      "Source": "CSVBackend",
+      "ContentRoot": "C:\\Users\\farazahmad\\Downloads\\Documents\\Projects\\CSVBackend\\wwwroot\\",
+      "BasePath": "_content/CSVBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
