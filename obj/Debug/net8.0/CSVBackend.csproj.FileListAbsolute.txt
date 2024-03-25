@@ -33,3 +33,4 @@ C:\Users\farazahmad\Downloads\Documents\Projects\CSVBackend\obj\Debug\net8.0\CSV
 C:\Users\farazahmad\Downloads\Documents\Projects\CSVBackend\obj\Debug\net8.0\CSVBackend.genruntimeconfig.cache
 C:\Users\farazahmad\Downloads\Documents\Projects\CSVBackend\obj\Debug\net8.0\ref\CSVBackend.dll
 C:\Users\farazahmad\Downloads\Documents\Projects\CSVBackend\bin\Debug\net8.0\CSVBackend.staticwebassets.runtime.json
+C:\Users\farazahmad\Downloads\Documents\Projects\CSVBackend\obj\Debug\net8.0\CSVBackend.sourcelink.json
